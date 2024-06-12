@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Júlio C. Dreher 👋
 
-<!--
-**drehercc/drehercc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Estou atualmente estudando novas tecnologias com cursos da Alura e trabalhando com Genesys Cloud, Serviços AWS e Twilio.
 
-Here are some ideas to get you started:
+Tenho paixão por aprender e aplicar novas tecnologias para resolver problemas e criar soluções eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+Aqui estão algumas das tecnologias que mais utilizo no meu dia a dia:
+- **JavaScript/NodeJS**
+- **React**
+- **HTML**
+- **Python**
+- **Genesys Cloud**
+- **APIs REST com Express**
+
+## Contato
+- **E-mail:** [julio.s.dreher@gmail.com](mailto:julio.s.dreher@gmail.com)
+- **LinkedIn:** [linkedin.com/in/júlio-dreher-72a530178](https://www.linkedin.com/in/j%C3%BAlio-dreher-72a530178/)
+
+Obrigado por visitar meu perfil! 😄
